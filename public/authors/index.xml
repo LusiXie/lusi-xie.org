@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors | Lusi Xie</title>
+    <link>/authors/</link>
+      <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Lusi Xie, {2019}</copyright><lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Authors</title>
+      <link>/authors/</link>
+    </image>
+    
+    <item>
+      <title></title>
+      <link>/authors/admin/</link>
+      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/admin/</guid>
+      <description>&lt;p&gt;I am a PhD. student in Agricultural &amp;amp; Resource Economics at &lt;a href=&#34;https://www.ualberta.ca/resource-economics-environmental-sociology/&#34; target=&#34;_blank&#34;&gt;Resource Economics &amp;amp; Environmental Sociology&lt;/a&gt; at University of Alberta.&lt;/p&gt;
+
+&lt;p&gt;My research aims to better understand decision making involving environmental resources, and to use this understanding to improve natural resource management. I typically use a microeconomics framework and applied econometric methods to model human behavior, test hypotheses, and develop policy recommendations.&lt;/p&gt;
+
+&lt;p&gt;My current research focuses on recreationists’ non-market behavior and the use of incentives to increase public good contributions. My current research primarily includes:
+- Examining recreationist&amp;rsquo; spatial and temporal behavioral responses to external factors (e.g. wildlife disease) and resource management programs by developing a recreation demand model with revealed and stated preference data.
+- Identifying people&amp;rsquo;s motivations and evaluating different incentive programs to increase the contribution to impure public goods with data collected from lab and framed field experiments.
+- Developing methods to improve the incentive compatibility of responses to contingent behavior (CB) questions in stated preference tasks with data collected from lab experiments.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Robert Ford</title>
+      <link>/authors/robert-ford/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>/authors/robert-ford/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
