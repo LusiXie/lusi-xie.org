@@ -241,4 +241,9 @@
     <loc>/courses/</loc>
   </url>
   
+  <url>
+    <loc>/authors/lusi-xie/</loc>
+    <priority>0</priority>
+  </url>
+  
 </urlset>

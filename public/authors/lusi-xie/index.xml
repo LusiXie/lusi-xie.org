@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lusi Xie</title>
+    <link>/authors/lusi-xie/</link>
+      <atom:link href="/authors/lusi-xie/index.xml" rel="self" type="application/rss+xml" />
+    <description>Lusi Xie</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Lusi Xie, {2019}</copyright>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Lusi Xie</title>
+      <link>/authors/lusi-xie/</link>
+    </image>
+    
+    <item>
+      <title></title>
+      <link>/authors/admin/</link>
+      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/admin/</guid>
+      <description>&lt;p&gt;I am a PhD. student in Agricultural &amp;amp; Resource Economics at &lt;a href=&#34;https://www.ualberta.ca/resource-economics-environmental-sociology/&#34; target=&#34;_blank&#34;&gt;Resource Economics &amp;amp; Environmental Sociology&lt;/a&gt; at University of Alberta.&lt;/p&gt;
+
+&lt;p&gt;My research aims to better understand decision making involving environmental resources by examining behavioral responses to incentives and information with a focus on choices. My current research focuses on individuals&amp;rsquo; non-market behavior and the use of incentives to increase public good contributions. I typically use a microeconomics framework and applied econometric methods to model human behavior, test hypotheses, and develop policy recommendations.The findings and methods used in my research shed light on the relationship between humans, the natural environment, and development in general. Feel free to contact me at &lt;a href=&#34;mailto:lxie@ualberta.ca&#34; target=&#34;_blank&#34;&gt;lxie@ualberta.ca&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
