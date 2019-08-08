@@ -5,7 +5,7 @@
     <link>/authors/</link>
       <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Lusi Xie, {2019}</copyright><lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Lusi Xie, {2019}</copyright><lastBuildDate>Sun, 01 Sep 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Authors</title>
@@ -13,9 +13,17 @@
     </image>
     
     <item>
+      <title>Lusi Xie, W. L. Adamowicz, P. Lloyd-Smith</title>
+      <link>/authors/lusi-xie-w.-l.-adamowicz-p.-lloyd-smith/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/lusi-xie-w.-l.-adamowicz-p.-lloyd-smith/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title></title>
       <link>/authors/admin/</link>
-      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
       <guid>/authors/admin/</guid>
       <description>&lt;p&gt;I am a PhD. student in Agricultural &amp;amp; Resource Economics at &lt;a href=&#34;https://www.ualberta.ca/resource-economics-environmental-sociology/&#34; target=&#34;_blank&#34;&gt;Resource Economics &amp;amp; Environmental Sociology&lt;/a&gt; at University of Alberta.&lt;/p&gt;
 

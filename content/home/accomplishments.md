@@ -2,10 +2,10 @@
 # Accomplishments widget.
 widget = "accomplishments"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = false  # Activate this widget? true/false
-weight = 50  # Order that this section will appear.
+active = true  # Activate this widget? true/false
+weight = 40  # Order that this section will appear.
 
-title = "Accomplish&shy;ments"
+title = "Presentations"
 subtitle = ""
 
 # Date format
@@ -19,33 +19,82 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "Coursera"
-  organization_url = "https://www.coursera.org"
-  title = "Neural Networks and Deep Learning"
-  url = ""
-  certificate_url = "https://www.coursera.org"
-  date_start = "2018-10-01"
+  organization = "Ottawa, Canada"
+  organization_url = ""
+  title = "Canadian Agricultural Economics Society Annual Meeting"
+  url = "https://caes-scae.ca/caes-annual-meeting/"
+  certificate_url = ""
+  date_start = "2019-07-01"
   date_end = ""
   description = ""
 
 [[item]]
-  organization = "edX"
-  organization_url = "https://www.edx.org"
-  title = "Blockchain Fundamentals"
-  url = "https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals"
-  certificate_url = "https://www.edx.org"
-  date_start = "2018-03-01"
+  organization = "Manchester, UK"
+  organization_url = ""
+  title = "European Association of Environmental and Resource Economists Conference"
+  url = "http://www.eaere-conferences.org/index.php?y=2019"
+  certificate_url = ""
+  date_start = "2019-06-01"
   date_end = ""
-  description = "Formulated informed blockchain models, hypotheses, and use cases."
+  description = ""
   
 [[item]]
-  organization = "DataCamp"
-  organization_url = "https://www.datacamp.com"
-  title = "Object-Oriented Programming in R: S3 and R6 Course"
-  url = ""
-  certificate_url = "https://www.datacamp.com"
-  date_start = "2017-07-01"
-  date_end = "2017-12-21"
+  organization = "Lake Tahoe, USA"
+  organization_url = ""
+  title = "Association of Environmental and Resource Economists Conference"
+  url = "https://www.aere.org/2019-summer-conference-highlights"
+  certificate_url = ""
+  date_start = "2019-05-01"
+  date_end = ""
   description = ""
 
+[[item]]
+  organization = "Edmonton, Canada"
+  organization_url = ""
+  title = "PRION 2019"
+  url = "https://www.prion2019.ca/"
+  certificate_url = ""
+  date_start = "2019-05-01"
+  date_end = ""
+  description = ""
+  
+[[item]]
+  organization = "Urbana-Champaign, USA"
+  organization_url = ""
+  title = "Heartland Environmental and Resource Economics Workshop at Illinois"
+  url = "https://publish.illinois.edu/heartland/archives/archive-2018/agenda/"
+  certificate_url = ""
+  date_start = "2018-09-01"
+  date_end = ""
+  description = ""
+
+[[item]]
+  organization = "Washington DC, USA"
+  organization_url = ""
+  title = "Agricultural & Applied Economics Association Conference"
+  url = "https://www.aaea.org/meetings/2018-aaea-annual-meeting"
+  certificate_url = ""
+  date_start = "2018-08-01"
+  date_end = ""
+  description = ""
+  
+[[item]]
+  organization = "Anchorage, USA"
+  organization_url = ""
+  title = "Western AgriculturalEconomics Association Conference"
+  url = ""
+  certificate_url = ""
+  date_start = "2018-06-01"
+  date_end = ""
+  description = ""
+
+[[item]]
+  organization = "Edmonton, Canada"
+  organization_url = ""
+  title = "Land Use 2018"
+  url = ""
+  certificate_url = ""
+  date_start = "2018-05-01"
+  date_end = ""
+  description = ""
 +++
