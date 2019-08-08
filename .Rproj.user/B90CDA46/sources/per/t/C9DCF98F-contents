@@ -3,9 +3,9 @@
 widget = "experience"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 40  # Order that this section will appear.
+weight = 30  # Order that this section will appear.
 
-title = "Experience"
+title = "Teaching"
 subtitle = ""
 
 # Date format for experience
@@ -18,27 +18,31 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
+  title = "University of Alberta"
+  company = "Resource Economics and Environmental Sociology"
   company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  location = "Alberta, Canada"
+  date_start = "2016-09-01"
   date_end = ""
   description = """
-  Responsibilities include:
+  Teaching Assistant
   
-  * Analysing
-  * Modelling
-  * Deploying
+  * Economic Valuation of Ecosystem Services (graduate, average rating: 4.8/5)
+  * Current Economic Issues for Agricultural and Food (undergraduate)
+  * Statistical Analysis (undergraduate)
+  
+  Guest Lecturer
+  
+  * Food Market Analysis (undergraduate)
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "University of California, Davis"
+  company = "Agricultural and Resource Economics"
   company_url = ""
   location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  date_start = "2013-09-01"
+  date_end = "2013-12-31"
+  description = """Teaching Assistant: Personal Finance (undergraduate)"""
 
 +++
