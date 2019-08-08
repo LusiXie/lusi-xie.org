@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: PhD Candidate in Agricultural & Resource Economics
+bio: Environmental and resource economist
 
 interests:
 - Environmental and Resource Economics
@@ -30,7 +30,7 @@ education:
   - course: PhD student in Agricultural and Resource Economics
     institution: University of Alberta, Alberta, Canada
     year: 2015 to present
-  - course: M.S. in Agricultural and Resource Economics
+  - course: MSc in Agricultural and Resource Economics
     institution: University of California Davis, CA, USA
     year: 2014
   - course: B.A. in Economics
