@@ -1,24 +1,24 @@
 {
     "collab_server" : "",
     "contents" : "",
-    "created" : 1565226070375.000,
+    "created" : 1565584923734.000,
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "123644922",
-    "id" : "61629593",
-    "lastKnownWriteTime" : 1565284632,
-    "last_content_update" : 1565284632833,
+    "hash" : "3285034834",
+    "id" : "2FBA7FC",
+    "lastKnownWriteTime" : 1565584982,
+    "last_content_update" : 1565584983461,
     "path" : "R:/AdamowiczResearch/lxie/lusi-xie.org/config/_default/menus.toml",
     "project_path" : "config/_default/menus.toml",
     "properties" : {
-        "cursorPosition" : "11,19",
-        "scrollLine" : "0"
+        "cursorPosition" : "33,8",
+        "scrollLine" : "7"
     },
     "read_only" : false,
     "read_only_alternatives" : [
     ],
-    "relative_order" : 5,
+    "relative_order" : 4,
     "source_on_save" : false,
     "source_window" : "",
     "type" : "toml"

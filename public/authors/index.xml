@@ -5,7 +5,7 @@
     <link>/authors/</link>
       <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Lusi Xie, {2019}</copyright><lastBuildDate>Sun, 01 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Lusi Xie, {2019}</copyright><lastBuildDate>Wed, 04 Sep 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Authors</title>
@@ -13,10 +13,34 @@
     </image>
     
     <item>
-      <title>Lusi Xie, W. L. Adamowicz, P. Lloyd-Smith</title>
-      <link>/authors/lusi-xie-w.-l.-adamowicz-p.-lloyd-smith/</link>
+      <title>Xie, L., W. L. Adamowicz, P. Lloyd-Smith</title>
+      <link>/authors/xie-l.-w.-l.-adamowicz-p.-lloyd-smith/</link>
+      <pubDate>Wed, 04 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/xie-l.-w.-l.-adamowicz-p.-lloyd-smith/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pattison-Williams,J.K., **L.Xie**, W.L.Adamowicz, M.Pybus, A.Hubbs</title>
+      <link>/authors/pattison-williamsj.k.-l.xie-w.l.adamowicz-m.pybus-a.hubbs/</link>
+      <pubDate>Tue, 03 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/pattison-williamsj.k.-l.xie-w.l.adamowicz-m.pybus-a.hubbs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Xie, L., W. L. Adamowicz, M.Kecinski</title>
+      <link>/authors/xie-l.-w.-l.-adamowicz-m.kecinski/</link>
+      <pubDate>Mon, 02 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/xie-l.-w.-l.-adamowicz-m.kecinski/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Xie, L., W. L. Adamowicz</title>
+      <link>/authors/xie-l.-w.-l.-adamowicz/</link>
       <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/lusi-xie-w.-l.-adamowicz-p.-lloyd-smith/</guid>
+      <guid>/authors/xie-l.-w.-l.-adamowicz/</guid>
       <description></description>
     </item>
     
@@ -28,15 +52,9 @@
       <description>&lt;p&gt;I am a PhD. student in Agricultural &amp;amp; Resource Economics at &lt;a href=&#34;https://www.ualberta.ca/resource-economics-environmental-sociology/&#34; target=&#34;_blank&#34;&gt;Resource Economics &amp;amp; Environmental Sociology&lt;/a&gt; at University of Alberta.&lt;/p&gt;
 
 &lt;p&gt;My research aims to better understand decision making involving environmental resources by examining behavioral responses to incentives and information with a focus on choices. My current research focuses on individuals&amp;rsquo; non-market behavior and the use of incentives to increase public good contributions. I typically use a microeconomics framework and applied econometric methods to model human behavior, test hypotheses, and develop policy recommendations.The findings and methods used in my research shed light on the relationship between humans, the natural environment, and development in general. Feel free to contact me at &lt;a href=&#34;mailto:lxie@ualberta.ca&#34; target=&#34;_blank&#34;&gt;lxie@ualberta.ca&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;/files/cv.pdf&#34; target=&#34;_blank&#34;&gt; &lt;strong&gt;CV (PDF)&lt;/strong&gt; &lt;/a&gt;&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Robert Ford</title>
-      <link>/authors/robert-ford/</link>
-      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>/authors/robert-ford/</guid>
-      <description></description>
     </item>
     
     <item>

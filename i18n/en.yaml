@@ -172,7 +172,12 @@
 - id: pub_patent
   translation: Patent
   
-
+- id: pub_wkpaper
+  translation: Working Paper
+ 
+- id: pub_wkinprogress
+  translation: Work in progress 
+  
 # Project details
 
 - id: open_project_site

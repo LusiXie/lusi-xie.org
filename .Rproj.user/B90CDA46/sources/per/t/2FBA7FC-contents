@@ -25,13 +25,13 @@
   weight = 50
 
 [[main]]
-  name = "Other"
-  url = "#project"
+  name = "More About Me"
+  url = "#projects"
   weight = 60
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# [[main]]
-#    name = "CV"
-#    url = "files/cv.pdf"
-#    weight = 70
+[[main]]
+  name = "About Me/CV"
+#  url = "files/CV.pdf"
+  weight = 10

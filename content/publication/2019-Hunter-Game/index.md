@@ -1,8 +1,9 @@
 ---
-title: "Spatial and Temporal Response to Incentives" 
+title: "Incentives for Impure Public Good Contributions and Motivational Crowding: Evidence from
+Laboratory and Framed Field Experiments" 
 authors:
-- Lusi Xie, W. L. Adamowicz, P. Lloyd-Smith
-date: "2019-09-01"
+- Xie, L., W. L. Adamowicz, M.Kecinski
+date: "2019-09-02"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -11,8 +12,8 @@ publishDate: ""
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
-# 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+# 7 = Thesis; 8 = Patent; 9 = Working Paper; 10 = Work in Progress
+publication_types: ["10"]
 
 # Publication name and optional abbreviated publication name.
 publication: ""
@@ -21,7 +22,7 @@ publication_short: ""
 abstract: Available soon
 
 # Summary. An optional shortened abstract.
-summary: Job Market Paper
+summary: 
 
 tags:
 - Source Themes

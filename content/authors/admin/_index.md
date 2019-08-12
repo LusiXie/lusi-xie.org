@@ -77,7 +77,7 @@ I am a PhD. student in Agricultural & Resource Economics at [Resource Economics 
 
 My research aims to better understand decision making involving environmental resources by examining behavioral responses to incentives and information with a focus on choices. My current research focuses on individuals' non-market behavior and the use of incentives to increase public good contributions. I typically use a microeconomics framework and applied econometric methods to model human behavior, test hypotheses, and develop policy recommendations.The findings and methods used in my research shed light on the relationship between humans, the natural environment, and development in general. Feel free to contact me at [lxie@ualberta.ca](mailto:lxie@ualberta.ca)
 
-
+{{% staticref "files/cv.pdf" "newtab" %}} **CV (PDF)** {{% /staticref %}}
 
 
 
