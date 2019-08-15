@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Photography | Lusi Xie</title>
+    <link>/tags/photography/</link>
+      <atom:link href="/tags/photography/index.xml" rel="self" type="application/rss+xml" />
+    <description>Photography</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Lusi Xie, {2019}</copyright><lastBuildDate>Thu, 01 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Photography</title>
+      <link>/tags/photography/</link>
+    </image>
+    
+    <item>
+      <title>Photography</title>
+      <link>/project/photography/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>/project/photography/</guid>
+      <description>&lt;p&gt;As an amateur photographer, I enjoy taking pictures of landscape and wildlife. These pictures make me think of the relationship between humans and the natural environment.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

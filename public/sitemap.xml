@@ -74,7 +74,7 @@
   </url>
   
   <url>
-    <loc>/authors/xie-l.-w.-l.-adamowicz-p.-lloyd-smith/</loc>
+    <loc>/authors/xie-l-adamowicz-w-lloyd-smith-p/</loc>
     <lastmod>2019-09-04T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -85,7 +85,7 @@
   </url>
   
   <url>
-    <loc>/authors/pattison-williamsj.k.-l.xie-w.l.adamowicz-m.pybus-a.hubbs/</loc>
+    <loc>/authors/pattison-williams-j-xie-l-adamowicz-w-pybus-m-hubbs-a/</loc>
     <lastmod>2019-09-03T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -102,7 +102,7 @@
   </url>
   
   <url>
-    <loc>/authors/xie-l.-w.-l.-adamowicz-m.kecinski/</loc>
+    <loc>/authors/xie-l-adamowicz-w-kecinski-m/</loc>
     <lastmod>2019-09-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -113,9 +113,48 @@
   </url>
   
   <url>
-    <loc>/authors/xie-l.-w.-l.-adamowicz/</loc>
+    <loc>/authors/xie-l-adamowicz-w/</loc>
     <lastmod>2019-09-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/climbing/</loc>
+    <lastmod>2019-08-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/project/climbing/</loc>
+    <lastmod>2019-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/photography/</loc>
+    <lastmod>2019-08-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/project/photography/</loc>
+    <lastmod>2019-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/</loc>
+    <lastmod>2019-08-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/traveling/</loc>
+    <lastmod>2019-08-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/project/traveling/</loc>
+    <lastmod>2019-08-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -167,34 +206,6 @@
   <url>
     <loc>/about/</loc>
     <lastmod>2016-05-05T21:48:51-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/deep-learning/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/demo/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/project/external-project/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/project/internal-project/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/project/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>

@@ -2,7 +2,7 @@
 title: "Incentives for Impure Public Good Contributions and Motivational Crowding: Evidence from
 Laboratory and Framed Field Experiments" 
 authors:
-- Xie, L., W. L. Adamowicz, M.Kecinski
+- Xie, L, Adamowicz, W, Kecinski, M
 date: "2019-09-02"
 doi: ""
 

@@ -1,7 +1,7 @@
 ---
 title: "Challenging Assumptions: An Empirical Analysis of Hunter Response to Chronic Wasting Disease in Alberta" 
 authors:
-- Pattison-Williams,J.K., **L.Xie**, W.L.Adamowicz, M.Pybus, A.Hubbs
+- Pattison-Williams, J, **Xie, L**, Adamowicz, W, Pybus, M, Hubbs, A
 date: "2019-09-03"
 doi: ""
 

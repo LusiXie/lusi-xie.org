@@ -1,7 +1,7 @@
 ---
 title: "Incentive Compatibility of Responses in Stated Preference Contingent Behavior Tasks" 
 authors:
-- Xie, L., W. L. Adamowicz
+- Xie, L, Adamowicz, W
 date: "2019-09-01"
 doi: ""
 

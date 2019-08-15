@@ -1,7 +1,7 @@
 ---
 title: "Spatial and Temporal Response to Incentives" 
 authors:
-- Xie, L., W. L. Adamowicz, P. Lloyd-Smith
+- Xie, L, Adamowicz, W, Lloyd-Smith, P
 date: "2019-09-04"
 doi: ""
 
@@ -18,7 +18,9 @@ publication_types: ["9"]
 publication: ""
 publication_short: ""
 
-abstract: Available soon
+abstract: Understanding how individuals change behavior and substitute activities spatially and temporally in response to changes in environmental conditions and incentives is important for predicting demand and evaluating welfare impacts. We develop a flexible recreation demand model that combines spatial and temporal choices at intensive and extensive margins to assess individuals’ behavioral responses to incentives. The model is estimated using data on recreational hunting trips in Alberta, Canada to examine how recreational hunters respond to the presence of a wildlife disease and incentives for engaging hunters in wildlife disease management. We find that individuals do not avoid hunting in disease-infected areas. When being offered an extended hunting season for disease management, individuals substitute trips spatially and temporally. The extended hunting season can be used as a non-monetary incentive because it generates additional hunting trips and welfare benefits.
+ 
+
 
 # Summary. An optional shortened abstract.
 summary: Job Market Paper
@@ -30,7 +32,7 @@ featured: false
 links:
 #- name: Custom Link
 #  url: http://example.org
-url_pdf: http://arxiv.org/pdf/1512.04133v1
+#url_pdf: '#'
 url_code: '#'
 #url_dataset: '#'
 #url_poster: '#'
