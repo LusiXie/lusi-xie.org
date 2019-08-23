@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1566602433235.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "1E29E173",
+    "lastKnownWriteTime" : 1565145037,
+    "last_content_update" : 1565145037,
+    "path" : "R:/AdamowiczResearch/lxie/lusi-xie.org/config.toml",
+    "project_path" : "config.toml",
+    "properties" : {
+        "cursorPosition" : "56,20",
+        "scrollLine" : "7"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "toml"
+}
