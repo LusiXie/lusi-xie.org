@@ -1,9 +1,9 @@
 ---
 title: Photography
-summary: Obtaining utility from the natural environment
+summary: An amateur photographer
 tags:
 - Photography
-date: "2019-08-01"
+date: "2019-08-10"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -30,4 +30,4 @@ url_video: ""
 # slides: example
 ---
 
-As an amateur photographer, I enjoy taking pictures of landscape and wildlife. These pictures make me think of the relationship between humans and the natural environment.  
+As an amateur photographer, I enjoy taking pictures of landscape and wildlife as a way to capture the relationship between humans and the natural environment.  

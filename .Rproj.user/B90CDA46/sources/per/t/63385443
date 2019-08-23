@@ -1,25 +1,25 @@
 {
     "collab_server" : "",
     "contents" : "",
-    "created" : 1565143602468.000,
+    "created" : 1565916993239.000,
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "2848076726",
-    "id" : "774F1B92",
-    "lastKnownWriteTime" : 1565147930,
-    "last_content_update" : 1565147930055,
+    "hash" : "4513394",
+    "id" : "63385443",
+    "lastKnownWriteTime" : 1565916829,
+    "last_content_update" : 1565916829,
     "path" : "R:/AdamowiczResearch/lxie/lusi-xie.org/code.R",
     "project_path" : "code.R",
     "properties" : {
-        "cursorPosition" : "5,22",
+        "cursorPosition" : "6,22",
         "scrollLine" : "0",
         "tempName" : "Untitled1"
     },
     "read_only" : false,
     "read_only_alternatives" : [
     ],
-    "relative_order" : 3,
+    "relative_order" : 1,
     "source_on_save" : false,
     "source_window" : "",
     "type" : "r_source"

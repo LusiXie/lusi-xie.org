@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1565916755339.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "4513394",
+    "id" : "F857A023",
+    "lastKnownWriteTime" : 1565916829,
+    "last_content_update" : 1565916829476,
+    "path" : "R:/AdamowiczResearch/lxie/lusi-xie.org/code.R",
+    "project_path" : "code.R",
+    "properties" : {
+        "cursorPosition" : "6,22",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

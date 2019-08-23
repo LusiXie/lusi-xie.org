@@ -1,9 +1,9 @@
 ---
 title: Traveling
-summary: Good at trip plannings thanks to Travel cost models
+summary: An avid traveler
 tags:
 - Traveling
-date: "2019-08-01"
+date: "2017-07-20"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""

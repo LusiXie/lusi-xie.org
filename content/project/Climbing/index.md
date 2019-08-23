@@ -1,9 +1,9 @@
 ---
 title: Climbing
-summary: Hands-on experience of outdoor recreational activities
+summary: An outdoor climber
 tags:
 - Climbing
-date: "2019-08-01"
+date: "2018-08-10"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""

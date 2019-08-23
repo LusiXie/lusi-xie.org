@@ -110,14 +110,7 @@
       <link>/publication/2019-jmp/</link>
       <pubDate>Wed, 04 Sep 2019 00:00:00 +0000</pubDate>
       <guid>/publication/2019-jmp/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
-</description>
+      <description></description>
     </item>
     
     <item>
@@ -125,14 +118,7 @@
       <link>/publication/2019-draw-paper/</link>
       <pubDate>Tue, 03 Sep 2019 00:00:00 +0000</pubDate>
       <guid>/publication/2019-draw-paper/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
-</description>
+      <description></description>
     </item>
     
     <item>
@@ -140,14 +126,7 @@
       <link>/publication/2019-hunter-game/</link>
       <pubDate>Mon, 02 Sep 2019 00:00:00 +0000</pubDate>
       <guid>/publication/2019-hunter-game/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
-</description>
+      <description></description>
     </item>
     
     <item>
@@ -155,40 +134,15 @@
       <link>/publication/2019-ic-experiment/</link>
       <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
       <guid>/publication/2019-ic-experiment/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Climbing</title>
-      <link>/project/climbing/</link>
-      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>/project/climbing/</guid>
-      <description>&lt;p&gt;As an outdoor rock/ice climber, I have hands-on experience on choosing recreation sites and time periods. I have substituted climbing locations and time periods due to changes in site attributes (e.g. weather) and external shocks (e.g. wildfire).&lt;/p&gt;
-</description>
+      <description></description>
     </item>
     
     <item>
       <title>Photography</title>
       <link>/project/photography/</link>
-      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 10 Aug 2019 00:00:00 +0000</pubDate>
       <guid>/project/photography/</guid>
-      <description>&lt;p&gt;As an amateur photographer, I enjoy taking pictures of landscape and wildlife. These pictures make me think of the relationship between humans and the natural environment.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Traveling</title>
-      <link>/project/traveling/</link>
-      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>/project/traveling/</guid>
-      <description>&lt;p&gt;As an avid traveler, I utilize travel cost models to plan my own trips around the world.&lt;/p&gt;
+      <description>&lt;p&gt;As an amateur photographer, I enjoy taking pictures of landscape and wildlife as a way to capture the relationship between humans and the natural environment.&lt;/p&gt;
 </description>
     </item>
     
@@ -647,6 +601,15 @@ $$&lt;/p&gt;
     </item>
     
     <item>
+      <title>Climbing</title>
+      <link>/project/climbing/</link>
+      <pubDate>Fri, 10 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>/project/climbing/</guid>
+      <description>&lt;p&gt;As an outdoor rock/ice climber, I have hands-on experience on choosing recreation sites and time periods. I have substituted climbing locations and time periods due to changes in site attributes (e.g. weather) and external shocks (e.g. wildfire).&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Privacy Policy</title>
       <link>/privacy/</link>
       <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
@@ -661,6 +624,15 @@ $$&lt;/p&gt;
       <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
       <guid>/terms/</guid>
       <description>&lt;p&gt;&amp;hellip;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Traveling</title>
+      <link>/project/traveling/</link>
+      <pubDate>Thu, 20 Jul 2017 00:00:00 +0000</pubDate>
+      <guid>/project/traveling/</guid>
+      <description>&lt;p&gt;As an avid traveler, I utilize travel cost models to plan my own trips around the world.&lt;/p&gt;
 </description>
     </item>
     

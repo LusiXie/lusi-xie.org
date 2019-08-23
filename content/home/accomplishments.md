@@ -81,7 +81,7 @@ date_format = "Jan 2006"
 [[item]]
   organization = "Anchorage, USA"
   organization_url = ""
-  title = "Western AgriculturalEconomics Association Conference"
+  title = "Western Agricultural Economics Association Conference"
   url = ""
   certificate_url = ""
   date_start = "2018-06-01"
