@@ -5,3 +5,5 @@ install_theme("gcushen/hugo-academic", theme_example = TRUE, update_config = TRU
 blogdown::install_hugo()
 
 blogdown::serve_site()
+
+blogdown::hugo_version()
