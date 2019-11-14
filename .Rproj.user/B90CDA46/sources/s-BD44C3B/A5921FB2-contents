@@ -80,6 +80,6 @@ My research aims to better understand decision making by examining behavioral re
 I will be on the 2019-2020 job market and available for interviews at the 2020 [ASSA Annual Meeting](https://www.aeaweb.org/conference/) in San Diego, CA. Feel free to contact me at [lxie@ualberta.ca](mailto:lxie@ualberta.ca)
 
 * {{% staticref "files/Xie_cv.pdf" "newtab" %}} **Academic CV (PDF)** {{% /staticref %}}
-* {{% staticref "files/Xie_Resume.pdf" "newtab" %}} **Resume (PDF)** {{% /staticref %}}
+
 
 
