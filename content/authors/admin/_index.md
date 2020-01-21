@@ -77,7 +77,7 @@ I am a PhD. student in Agricultural & Resource Economics at [Department of Resou
 
 My research aims to better understand decision making by examining behavioral responses to incentives and information with a focus on choices. My current research focuses on individuals' non-market behavior and the use of incentives to increase public good contributions. I typically use a microeconomics framework and applied econometric methods to model human behavior, test hypotheses, and develop policy recommendations.
 
-I will be on the 2019-2020 job market and available for interviews at the 2020 [ASSA Annual Meeting](https://www.aeaweb.org/conference/) in San Diego, CA. Feel free to contact me at [lxie@ualberta.ca](mailto:lxie@ualberta.ca)
+I am on the 2019-2020 job market. Feel free to contact me at [lxie@ualberta.ca](mailto:lxie@ualberta.ca)
 
 * {{% staticref "files/Xie_cv.pdf" "newtab" %}} **Academic CV (PDF)** {{% /staticref %}}
 
