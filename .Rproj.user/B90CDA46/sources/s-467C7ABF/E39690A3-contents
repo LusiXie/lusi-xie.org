@@ -1,8 +1,8 @@
 ---
-title: "Challenging Assumptions: An Empirical Analysis of Hunter Response to Chronic Wasting Disease in Alberta" 
+title: "Spatial and Temporal Responses to Incentives" 
 authors:
-- Pattison-Williams, J, **Xie, L**, Adamowicz, W, Pybus, M, Hubbs, A
-date: "2019-09-03"
+- Xie, L, Adamowicz, W, Lloyd-Smith, P
+date: "2019-09-04"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -18,12 +18,12 @@ publication_types: ["9"]
 publication: ""
 publication_short: ""
 
-abstract: Chronic Wasting Disease (CWD) has fundamentally impacted wildlife management and hunting activities in Western Canada. A traditional assumption has been that hunters will avoid or reduce hunting in areas with high CWD prevalence due to its potential human health risks, requiring policy incentives to promote harvesting infected animals for CWD control. We empirically explore the response of hunters to CWD by modeling special licence application trends in areas where CWD has been positively detected. We use a fixed effects model to explore the impact of CWD prevalence on total mule deer special licence applications in 37 hunting sites by controlling other covariates, location and time effects. We find that CWD does not significantly affect mule deer hunters’ decisions on special licence applications in Alberta. They are continuing to apply to hunt in areas with high CWD prevalence. This outcome suggests that hunter-based strategies may be effective to manage the disease.    
+abstract: Individuals make decisions on location choices and timing of activities in response to changes in environmental conditions and incentives. Examples include restaurant choices, livelihood choices and recreational choices. In economic decision-making, economists focus mostly on location instead of time, thus the behavioral and welfare impacts of the incentives associated with temporal dimensions of choice are largely unknown. We develop a flexible econometric model that combines spatial and temporal choices at intensive and extensive margins to assess individuals’ behavioral responses to incentives that offer time flexibility. We estimate the model using data on recreational hunting trips in Alberta, Canada to examine how individuals respond to the incentive of a longer recreation season. We find that individuals substitute activities spatially and temporally, and gain welfare benefits when there is increased flexibility in choosing the time of the activities. Our findings suggest time flexibility could be used as an incentive to change behavior when decisions involve time.   
  
 
 
 # Summary. An optional shortened abstract.
-summary: Under review
+summary: Job Market Paper
 
 tags:
 - Source Themes
@@ -31,12 +31,13 @@ featured: false
 
 links:
 #- name: Custom Link
-#  url: http://example.org
-#url_pdf: http://arxiv.org/pdf/1512.04133v1
+#url: 
+url_pdf: 'https://github.com/LusiXie/lusi-xie.org/blob/master/static/files/Xie_JMP.pdf'
 #url_code: '#'
 #url_dataset: '#'
 #url_poster: '#'
 #url_project: '#'
+# Note: remember to dis"#" slides below - check original academic example.
 #url_slides: ''
 #url_source: '#'
 #url_video: '#'
