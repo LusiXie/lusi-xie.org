@@ -27,10 +27,10 @@ interests:
 
 education:
   courses:
-  - course: PhD student in Agricultural and Resource Economics
+  - course: Ph.D. in Agricultural and Resource Economics
     institution: University of Alberta, Alberta, Canada
     year: 2015 to present
-  - course: MSc in Agricultural and Resource Economics
+  - course: M.S. in Agricultural and Resource Economics
     institution: University of California Davis, CA, USA
     year: 2014
   - course: B.A. in Economics
@@ -73,7 +73,7 @@ user_groups:
 - Visitors
 ---
 
-I am a PhD. student in Agricultural & Resource Economics at [Department of Resource Economics & Environmental Sociology](https://www.ualberta.ca/resource-economics-environmental-sociology/) at University of Alberta. 
+I am a PhD student in Agricultural & Resource Economics at [Department of Resource Economics & Environmental Sociology](https://www.ualberta.ca/resource-economics-environmental-sociology/) at University of Alberta. 
 
 My research aims to better understand decision making by examining behavioral responses to incentives and information with a focus on choices. My current research focuses on individuals' non-market behavior and the use of incentives to increase public good contributions. I typically use a microeconomics framework and applied econometric methods to model human behavior, test hypotheses, and develop policy recommendations.
 
