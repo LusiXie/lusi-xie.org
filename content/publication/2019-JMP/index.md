@@ -32,7 +32,7 @@ featured: false
 links:
 #- name: Custom Link
 #url: 
-url_pdf: 'https://github.com/LusiXie/lusi-xie.org/blob/master/static/files/Xie_JMP.pdf'
+#url_pdf: 'https://github.com/LusiXie/lusi-xie.org/blob/master/static/files/Xie_JMP.pdf'
 #url_code: '#'
 #url_dataset: '#'
 #url_poster: '#'
