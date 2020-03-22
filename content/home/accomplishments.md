@@ -19,6 +19,27 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
+  organization = "Woods Hole, USA"
+  organization_url = ""
+  title = "Marine Policy Center, Woods Hole Oceanographic Institution"
+#  url = "https://caes-scae.ca/caes-annual-meeting/"
+  certificate_url = ""
+  date_start = "2020-02-26"
+  date_end = ""
+  description = ""
+
+[[item]]
+  organization = "Edmonton, Canada"
+  organization_url = ""
+  title = "Department of Resource Economics and Environmental Sociology, University of Alberta"
+#  url = "https://caes-scae.ca/caes-annual-meeting/"
+  certificate_url = ""
+  date_start = "2019-10-31"
+  date_end = ""
+  description = ""
+
+
+[[item]]
   organization = "Ottawa, Canada"
   organization_url = ""
   title = "Canadian Agricultural Economics Society Annual Meeting"

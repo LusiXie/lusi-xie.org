@@ -1,9 +1,8 @@
 ---
-title: "Incentives for Impure Public Good Contributions and Motivational Crowding: Evidence from
-Laboratory and Framed Field Experiments" 
+title: "Challenging Assumptions: An Empirical Analysis of Hunter Response to Chronic Wasting Disease in Alberta" 
 authors:
-- Xie, L, Adamowicz, W, Kecinski, M
-date: "2019-09-02"
+- Pattison-Williams, J, **Xie, L**, Adamowicz, W, Pybus, M, Hubbs, A
+date: "2019-09-03"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -19,10 +18,12 @@ publication_types: ["9"]
 publication: ""
 publication_short: ""
 
-abstract: Available soon
+abstract: Chronic Wasting Disease (CWD) has fundamentally impacted wildlife management and hunting activities in Western Canada. A traditional assumption has been that hunters will avoid or reduce hunting in areas with high CWD prevalence due to its potential human health risks, requiring policy incentives to promote harvesting infected animals for CWD control. We empirically explore the response of hunters to CWD by modeling special licence application trends in areas where CWD has been positively detected. We use a fixed effects model to explore the impact of CWD prevalence on total mule deer special licence applications in 37 hunting sites by controlling other covariates, location and time effects. We find that CWD does not significantly affect mule deer hunters’ decisions on special licence applications in Alberta. They are continuing to apply to hunt in areas with high CWD prevalence. This outcome suggests that hunter-based strategies may be effective to manage the disease.    
+ 
+
 
 # Summary. An optional shortened abstract.
-summary: 
+summary: Under review
 
 tags:
 - Source Themes
