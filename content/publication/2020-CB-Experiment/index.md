@@ -1,8 +1,8 @@
 ---
-title: "Incentive Compatibility of Responses in Stated Preference Contingent Behavior Tasks" 
+title: "Assessing Validity of Stated Preference Contingent Behavior Responses in Online Laboratory Experiments" 
 authors:
-- Xie, L, Adamowicz, W, Kecinski, M
-date: "2019-09-01"
+- Xie, L, Adamowicz, W, Kecinski, M, Fooks, J
+date: "2019-09-02"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -21,7 +21,7 @@ publication_short: ""
 abstract: Available soon
 
 # Summary. An optional shortened abstract.
-summary: 
+summary: Work in progress
 
 tags:
 - Source Themes

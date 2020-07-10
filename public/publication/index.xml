@@ -5,7 +5,7 @@
     <link>/publication/</link>
       <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Research</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Lusi Xie, {2019}</copyright><lastBuildDate>Wed, 04 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Lusi Xie, {2019}</copyright><lastBuildDate>Thu, 05 Sep 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Research</title>
@@ -13,17 +13,17 @@
     </image>
     
     <item>
-      <title>Spatial and Temporal Responses to Incentives</title>
+      <title>Spatial and Temporal Responses to Incentives: An Application to Wildlife Disease Management</title>
       <link>/publication/2019-jmp/</link>
-      <pubDate>Wed, 04 Sep 2019 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 05 Sep 2019 00:00:00 +0000</pubDate>
       <guid>/publication/2019-jmp/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Challenging Assumptions: An Empirical Analysis of Hunter Response to Chronic Wasting Disease in Alberta</title>
+      <title>An Empirical Analysis of Hunter Response to Chronic Wasting Disease in Alberta</title>
       <link>/publication/2019-draw-paper/</link>
-      <pubDate>Tue, 03 Sep 2019 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 04 Sep 2019 00:00:00 +0000</pubDate>
       <guid>/publication/2019-draw-paper/</guid>
       <description></description>
     </item>
@@ -31,16 +31,24 @@
     <item>
       <title>Incentives for Impure Public Good Contributions and Motivational Crowding: Evidence from Laboratory and Framed Field Experiments</title>
       <link>/publication/2019-hunter-game/</link>
-      <pubDate>Mon, 02 Sep 2019 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 03 Sep 2019 00:00:00 +0000</pubDate>
       <guid>/publication/2019-hunter-game/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Incentive Compatibility of Responses in Stated Preference Contingent Behavior Tasks</title>
-      <link>/publication/2019-ic-experiment/</link>
+      <title>Assessing Validity of Stated Preference Contingent Behavior Responses in Online Laboratory Experiments</title>
+      <link>/publication/2020-cb-experiment/</link>
+      <pubDate>Mon, 02 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/2020-cb-experiment/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Temporal Reliability of Estimates with Contingent Behavior Trip Data in Kuhn-Tucker Recreation Demand Models</title>
+      <link>/publication/2020-cb-reliability/</link>
       <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/2019-ic-experiment/</guid>
+      <guid>/publication/2020-cb-reliability/</guid>
       <description></description>
     </item>
     
