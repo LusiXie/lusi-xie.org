@@ -21,6 +21,16 @@ date_format = "Jan 2006"
 [[item]]
   organization = "Webinar"
   organization_url = ""
+  title = "Department of Resource Economics and Environmental Sociology, University of Alberta"
+  url = "https://www.youtube.com/watch?v=OmtKImqKwzI&list=PLcaSDdM_ENWm7TgJ6aPngojQqhMsDbWEV&index=3&ab_channel=Agricultural%2CLife%26EnvironmentalSciences"
+  certificate_url = ""
+  date_start = "2020-12-03"
+  date_end = ""
+  description = ""
+
+[[item]]
+  organization = "Webinar"
+  organization_url = ""
   title = "Center for Experimental and Applied Economics, University of Delaware"
   certificate_url = ""
   date_start = "2020-04-17"
