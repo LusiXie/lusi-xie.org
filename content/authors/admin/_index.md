@@ -10,11 +10,11 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD Candidate in Agricultural & Resource Economics
+role: Postdoctoral researcher
 
 # Organizations/Affiliations
 organizations:
-- name: University of Alberta
+- name: University of Delaware
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -29,7 +29,7 @@ education:
   courses:
   - course: Ph.D. in Agricultural and Resource Economics
     institution: University of Alberta, Alberta, Canada
-    year: 2015 to present
+    year: 2021
   - course: M.S. in Agricultural and Resource Economics
     institution: University of California Davis, CA, USA
     year: 2014
@@ -44,7 +44,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: "mailto:lxie@ualberta.ca"
+  link: "mailto:lxie@udel.edu"
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/lusixie0129
@@ -64,7 +64,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "lxie@ualberta.ca"
+email: "lxie@udel.edu"
   
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
@@ -73,11 +73,11 @@ user_groups:
 - Visitors
 ---
 
-I am a PhD student in Agricultural & Resource Economics at [Department of Resource Economics & Environmental Sociology](https://www.ualberta.ca/resource-economics-environmental-sociology/) at University of Alberta. 
+I am a postdoctoral researcher at [Center for Experimental and Applied Economics](https://www.udel.edu/academics/colleges/canr/departments/applied-economics-and-statistics/affiliated-centers/ceae/) at the University of Delaware. 
 
-My research aims to better understand decision making by examining behavioral responses to incentives and information with a focus on choices. My current research focuses on individuals' non-market behavior and the use of incentives to increase public good contributions. I typically use a microeconomics framework and applied econometric methods to model human behavior, test hypotheses, and develop policy recommendations.
+My research aims to better understand decision making by examining behavioral responses to incentives and information. My current research investigates agricultural and environmental issues by using behavioral and experimental economics. My PhD dissertation focused on individuals' non-market behavior and the use of incentives to increase public good contributions. I typically use a microeconomics framework and applied econometric methods to model human behavior, test hypotheses, and develop policy recommendations.
 
-Feel free to contact me at [lxie@ualberta.ca](mailto:lxie@ualberta.ca)
+Feel free to contact me at [lxie@udel.edu](mailto:lxie@udel.edu)
 
 * {{% staticref "files/Xie_cv.pdf" "newtab" %}} **Academic CV (PDF)** {{% /staticref %}}
 
