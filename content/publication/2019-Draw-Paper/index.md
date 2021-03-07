@@ -23,7 +23,7 @@ abstract: Chronic wasting disease (CWD) has impacted wildlife management in Cana
 
 
 # Summary. An optional shortened abstract.
-summary: 
+summary: Journal article
 tags: 
 - Source Themes
 featured: false
