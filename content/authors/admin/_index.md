@@ -79,6 +79,6 @@ My research aims to better understand decision making by examining behavioral re
 
 Feel free to contact me at [lxie@udel.edu](mailto:lxie@udel.edu)
 
-* {{% staticref "static/Xie_CV_2021.pdf" "newtab" %}} **Academic CV (PDF)** {{% /staticref %}}
+* {{% staticref "static/Xie_CV.pdf" "newtab" %}} **Academic CV (PDF)** {{% /staticref %}}
 
 
