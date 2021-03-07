@@ -1,5 +1,5 @@
 ---
-title: "Assessing Validity of Stated Preference Contingent Behavior Responses in Online Laboratory Experiments" 
+title: "Using Economic Experiments to Assess Validity of Stated Preference Contingent Behavior" 
 authors:
 - Xie, L, Adamowicz, W, Kecinski, M, Fooks, J
 date: "2019-09-02"
@@ -12,7 +12,7 @@ publishDate: ""
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent; 9 = Working Paper; 10 = Work in Progress
-publication_types: ["10"]
+publication_types: ["9"]
 
 # Publication name and optional abbreviated publication name.
 publication: ""
