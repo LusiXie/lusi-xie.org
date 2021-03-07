@@ -59,9 +59,9 @@ social:
   link: https://www.linkedin.com/in/lusi-xie-87222368/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+ - icon: cv
+   icon_pack: ai
+   link: files/Xie_CV_2021.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "lxie@udel.edu"
@@ -79,6 +79,6 @@ My research aims to better understand decision making by examining behavioral re
 
 Feel free to contact me at [lxie@udel.edu](mailto:lxie@udel.edu)
 
-* {{% staticref "files/Xie_CV_2021.pdf" "newtab" %}} **Academic CV (PDF)** {{% /staticref %}}
+#* {{% staticref "files/Xie_CV_2021.pdf" "newtab" %}} **Academic CV (PDF)** {{% /staticref %}}
 
 
