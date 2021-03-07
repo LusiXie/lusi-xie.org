@@ -18,7 +18,8 @@ publication_types: ["10"]
 publication: ""
 publication_short: ""
 
-abstract: Available soon
+abstract: Contingent behavior (CB) trip data, eliciting intended trip decisions with hypothetical scenarios, has been popular in recreation demand models. Unlike other stated preference methods, the temporal reliability – a measurement of accuracy – of CB trip data has not been examined in recreation demand models, especially in a Kuhn-Tucker (KT) framework. This paper assesses the temporal reliability of coefficient and welfare estimates from KT models with CB trip data collected over three years.  We find that coefficient and welfare estimates are largely reliable over time. Our findings add confidence in using CB trip data to model demands within and beyond recreation contexts and provide insight into the broader application of KT models. 
+
 
 # Summary. An optional shortened abstract.
 summary: Work in progress
