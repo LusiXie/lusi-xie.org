@@ -21,7 +21,7 @@ publication_short: ""
 abstract: Available soon
 
 # Summary. An optional shortened abstract.
-summary: Work in progress
+summary: Working paper
 
 tags:
 - Source Themes
