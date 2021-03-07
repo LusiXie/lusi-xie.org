@@ -22,7 +22,7 @@ abstract: Contingent behavior (CB) trip data, eliciting intended trip decisions 
 
 
 # Summary. An optional shortened abstract.
-summary: Work in progress
+summary: Working paper
 
 tags:
 - Source Themes
