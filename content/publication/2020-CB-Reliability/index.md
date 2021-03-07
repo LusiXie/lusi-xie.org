@@ -1,5 +1,5 @@
 ---
-title: "Temporal Reliability of Estimates with Contingent Behavior Trip Data in Kuhn-Tucker Recreation Demand Models" 
+title: "Temporal Reliability of Contingent Behavior Trip Data in Kuhn-Tucker Recreation Demand Models" 
 authors:
 - Xie, L, Adamowicz, W
 date: "2019-09-01"
@@ -12,7 +12,7 @@ publishDate: ""
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent; 9 = Working Paper; 10 = Work in Progress
-publication_types: ["10"]
+publication_types: ["9"]
 
 # Publication name and optional abbreviated publication name.
 publication: ""
