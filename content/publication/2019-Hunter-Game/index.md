@@ -22,7 +22,7 @@ publication_short: ""
 abstract: Incentives and behavioral nudges are widely used to induce beneficial behavior. When these incentives are used in specific contexts such as environmental conservation, individual knowledge, experience, and attitudes can lead to motivational crowding and may limit the efficacy of incentives. We use theory and experimental methods to compare how incentives and information affect behavior for highly specialized target groups and non-specialized audiences. Specifically, we use a multiple threshold public goods game to examine the effectiveness of policy instruments designed to curb a wildlife disease. Controlled laboratory and framed field experiments were conducted with students and recreational hunters. We find that pro-social information results in desirable outcomes for both groups. However, hunters and students respond differently to fixed and lottery monetary rewards as well as the removal of incentives. This research advances knowledge on how nudges and incentives can lead to motivational crowding and provides meaningful policy implications for wildlife management.
 
 # Summary. An optional shortened abstract.
-summary: 
+summary: Working paper
 
 tags:
 - Source Themes
