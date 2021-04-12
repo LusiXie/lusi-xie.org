@@ -18,8 +18,22 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
+  title = "University of Delaware"
+  company = "Department of Applied Economics and Statistics"
+  company_url = ""
+  location = "Delaware"
+  date_start = "2021-03-01"
+  date_end = "2021-04-01"
+  description = """
+  Guest Lecturer
+  
+  * Experimental Economics (graduate)
+  * Conducting Applied Economics Research (graduate)
+  """
+
+[[experience]]
   title = "University of Alberta"
-  company = "Resource Economics and Environmental Sociology"
+  company = "Department of Resource Economics and Environmental Sociology"
   company_url = ""
   location = "Alberta, Canada"
   date_start = "2016-09-01"
@@ -38,7 +52,7 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "University of California, Davis"
-  company = "Agricultural and Resource Economics"
+  company = "Department of Agricultural and Resource Economics"
   company_url = ""
   location = "California"
   date_start = "2013-09-01"
