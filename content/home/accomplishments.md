@@ -18,6 +18,38 @@ date_format = "Jan 2006"
 #   Leave other parameters empty if not required.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
+
+[[item]]
+  organization = "Virtual"
+  organization_url = ""
+  title = "European Association of Environmental and Resource Economists Conference"
+  url = "http://www.eaere-conferences.org/"
+  certificate_url = ""
+  date_start = "2021-06-24"
+  date_end = ""
+  description = ""
+
+[[item]]
+  organization = "Virtual"
+  organization_url = ""
+  title = "CREEA|ACERE 7th Canadian PhD and Early Career Workshop in Environmental and Resource Economics"
+  url = "https://sites.google.com/view/creeaacere/workshops/program?authuser=0"
+  certificate_url = ""
+  date_start = "2021-06-16"
+  date_end = ""
+  description = ""
+
+[[item]]
+  organization = "Virtual"
+  organization_url = ""
+  title = "Association of Environmental and Resource Economists Conference"
+  url = "https://www.aere.org/2021-virtual-summer-conference-highlights"
+  certificate_url = ""
+  date_start = "2021-06-02"
+  date_end = ""
+  description = ""
+
+
 [[item]]
   organization = "Webinar"
   organization_url = ""
