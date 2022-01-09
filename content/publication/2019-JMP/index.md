@@ -2,7 +2,7 @@
 title: "Spatial and Temporal Responses to Incentives: An Application to Wildlife Disease Management" 
 authors:
 - Xie, L, Adamowicz, W, Lloyd-Smith, P
-date: "2019-09-05"
+date: "2022-01-09"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -18,7 +18,7 @@ publication_types: ["9"]
 publication: ""
 publication_short: ""
 
-abstract: Individuals decide on where to go (locations) and when to participate (time periods) in activities such as recreation, and respond to changes in external factors (e.g. incentives). In examining economic decision-making, economists focus mostly on location choices, thus the behavioral and welfare impacts of the incentives associated with time choices are largely unknown. In this paper we develop and estimate a flexible econometric model that combines spatial and temporal choices. The model is applied to examine individuals’ location and time choices of their recreation trips in response to extended recreation seasons that are proposed to encourage hunting for wildlife disease management. The data are from an online revealed and stated preference survey of recreational hunters in Alberta, Canada. We find that individuals substitute activities spatially and temporally and take more hunting trips and gain welfare benefits when they can more flexibly choose the time of activities. Our findings show time flexibility can be used as an incentive to encourage socially desirable outcomes. 
+abstract: When participating in recreation individuals decide on where to go (locations) and when to participate (which time periods), and they respond to changes in external factors (e.g., environmental quality changes, provision of incentives). In examining economic decision-making, economists focus mostly on location choices, thus the behavioral and welfare impacts of the incentives associated with time choices are largely unknown. In this paper we develop and estimate a flexible econometric model that combines spatial and temporal choices. The model is applied to examine individuals’ location and time choices of their recreation trips in response to extended recreation seasons that are proposed to encourage hunting for wildlife disease management. The data are from an online revealed and stated preference survey of recreational hunters in Alberta, Canada. We find that individuals substitute activities spatially and temporally and take more hunting trips and gain welfare benefits when they can more flexibly choose the time of activities. Our findings show that increases in time flexibility can be used as an incentive to encourage beneficial outcomes. 
  
  
 
