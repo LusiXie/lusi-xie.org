@@ -18,7 +18,7 @@ publication_types: ["9"]
 publication: ""
 publication_short: ""
 
-abstract: Available soon
+abstract: Contingent behavior (CB), a stated preference (SP) method, elicits individuals’ intentions about behavior in quantities or frequencies under hypothetical scenarios. CB has primarily been used to elicit preferences in recreation demand models or to assess market demand. Although CB shares the hypothetical nature of other SP methods, there has been limited assessment of CB validity and incentive compatibility. Focusing on hypothetical bias and framing effects, we design an incentive-compatible decision mechanism that examines the validity of CB in economic experiments. We find hypothetical bias associated with an overstatement of quantities in CB responses, but the overstatement does not appear to arise from strategic behavior. We also find that overstating quantities is not significantly affected by framing, but framing does affect the convergence of CB and revealed preference responses. These findings raise questions about the validity CB research and its demand revealing properties but provide some avenues to address these concerns. 
 
 # Summary. An optional shortened abstract.
 summary: Working paper
