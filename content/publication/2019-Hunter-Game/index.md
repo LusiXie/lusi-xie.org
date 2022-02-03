@@ -3,7 +3,7 @@ title: "Incentives for Impure Public Good Contributions and Motivational Crowdin
 Laboratory and Framed Field Experiments" 
 authors:
 - Xie, L, Adamowicz, W, Kecinski, M
-date: "2019-09-03"
+date: "2022-01-03"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
