@@ -2,7 +2,7 @@
 title: "An Empirical Analysis of Hunter Response to Chronic Wasting Disease in Alberta" 
 authors:
 - Pattison-Williams, J, **Xie, L**, Adamowicz, W, Pybus, M, Hubbs, A
-date: "2019-09-04"
+date: "2020-06-17"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
