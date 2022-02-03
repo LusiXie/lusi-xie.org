@@ -2,7 +2,7 @@
 title: "Temporal Reliability of Contingent Behavior Trip Data in Kuhn-Tucker Recreation Demand Models" 
 authors:
 - Xie, L, Adamowicz, W
-date: "2019-09-01"
+date: "2022-01-06"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
