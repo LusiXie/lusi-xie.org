@@ -23,12 +23,20 @@ date_format = "Jan 2006"
   company_url = ""
   location = "Delaware"
   date_start = "2021-03-01"
-  date_end = "2021-04-01"
+  date_end = "2022-06-01"
   description = """
+  Co-instructor
+  
+  * Power Analysis Workshop (graduate)
+  
   Guest Lecturer
   
   * Experimental Economics (graduate)
   * Conducting Applied Economics Research (graduate)
+
+  Teaching Assistant
+  
+  * Experimental Economics (graduate)
   """
 
 [[experience]]
