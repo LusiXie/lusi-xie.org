@@ -30,7 +30,7 @@ featured: false
 links:
 #- name: Custom Link
 #  url: http://example.org
-#url_pdf: https://www.sciencedirect.com/science/article/pii/S0095069622000377
+url_pdf: https://www.sciencedirect.com/science/article/pii/S0095069622000377
 #url_code: '#'
 #url_dataset: '#'
 #url_poster: '#'
