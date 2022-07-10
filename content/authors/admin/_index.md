@@ -73,7 +73,7 @@ user_groups:
 - Visitors
 ---
 
-I am a postdoctoral researcher at [Center for Experimental and Applied Economics](https://www.udel.edu/academics/colleges/canr/departments/applied-economics-and-statistics/affiliated-centers/ceae/) at the University of Delaware. 
+I am a postdoctoral researcher at the [Center for Experimental and Applied Economics](https://www.udel.edu/academics/colleges/canr/departments/applied-economics-and-statistics/affiliated-centers/ceae/) at the University of Delaware. 
 
 My research aims to better understand decision making by examining behavioral responses to incentives and information. My topics of specialization include wildlife conservation, water resource management, and agri-environmental policies. My research expertise are recreation demand models, revealed and stated preference surveys, economic (lab, framed field, field) experiments, as well as applied econometric methods. I apply my research expertise to model human behavior, test hypotheses, and develop policy recommendations for managing natural resources.
 
