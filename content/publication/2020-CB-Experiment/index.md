@@ -2,7 +2,7 @@
 title: "Using Economic Experiments to Assess the Validity of Stated Preference Contingent Behavior" 
 authors:
 - Xie, L, Adamowicz, W, Kecinski, M, Fooks, J
-date: "2022-05-23"
+date: "2022-07-07"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
