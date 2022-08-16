@@ -18,12 +18,12 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Applied economist
+bio: Environmental economist
 
 interests:
-- Environmental and Resource Economics
-- Non-market Valuation
+- Environmental valuation
 - Behavioral and Experimental Economics
+- Applied Econometrics
 
 education:
   courses:
@@ -75,7 +75,7 @@ user_groups:
 
 I am a postdoctoral researcher at the [Center for Experimental and Applied Economics](https://www.udel.edu/academics/colleges/canr/departments/applied-economics-and-statistics/affiliated-centers/ceae/) at the University of Delaware. 
 
-My research aims to better understand decision-making involving the environment and natural resources. My topics of specialization include wildlife conservation, water resource management, and agri-environmental policies. My research expertise is in recreation demand models, revealed and stated preference surveys, economic (lab, framed field, field) experiments, as well as applied econometric methods. I apply my research expertise to model human behavior, test hypotheses, and develop policy recommendations for managing natural resources.
+I am an environmental economist with expertise in environmental valuation and experimental economics. My interdisciplinary research applies economic tools to address environmental issues by providing a better understanding of human behavior and informing policy design. My topics of specialization include wildlife conservation, water resource management, and agri-environmental policies. My research makes methodological contributions by developing novel recreation demand models, advancing the design of stated preference surveys, comparing behavioral responses from students and non-students in economic experiments, and connecting laboratory with field experiments to inform program implementation. 
 
 Feel free to contact me at [lxie@udel.edu](mailto:lxie@udel.edu)
 
