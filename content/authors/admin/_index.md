@@ -22,8 +22,8 @@ bio: Environmental economist
 
 interests:
 - Environmental valuation
-- Behavioral and Experimental Economics
-- Applied Econometrics
+- Behavioral and experimental economics
+- Applied econometrics
 
 education:
   courses:
