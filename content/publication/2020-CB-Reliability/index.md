@@ -12,7 +12,7 @@ publishDate: ""
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent; 9 = Working Paper; 10 = Work in Progress
-publication_types: ["9"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: ""
@@ -22,7 +22,7 @@ abstract: Contingent behavior (CB) trip data, eliciting intended trip decisions 
 
 
 # Summary. An optional shortened abstract.
-summary: Working paper
+summary: Journal article, Land Economics
 
 tags:
 - Source Themes
