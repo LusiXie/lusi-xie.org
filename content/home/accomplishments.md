@@ -18,6 +18,15 @@ date_format = "Jan 2006"
 #   Leave other parameters empty if not required.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
+[[item]]
+  organization = "Anaheim, USA"
+  organization_url = ""
+  title = "Agricultural & Applied Economics Association Conference"
+  url = "https://www.aaea.org/meetings/2022-aaea-annual-meeting"
+  certificate_url = ""
+  date_start = "2022-08-02"
+  date_end = ""
+  description = ""
 
 [[item]]
   organization = "Virtual"
