@@ -12,19 +12,19 @@ publishDate: ""
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent; 9 = Working Paper; 10 = Work in Progress
-publication_types: ["9"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: ""
 publication_short: ""
 
-abstract: When participating in recreation individuals decide on where to go (locations) and when to participate (which time periods), and they respond to changes in external factors (e.g., environmental quality changes, provision of incentives). In examining economic decision-making, economists focus mostly on location choices, thus the behavioral and welfare impacts of the incentives associated with time choices are largely unknown. In this paper we develop and estimate a flexible econometric model that combines spatial and temporal choices. The model is applied to examine individuals’ location and time choices of their recreation trips in response to extended recreation seasons that are proposed to encourage hunting for wildlife disease management. The data are from an online revealed and stated preference survey of recreational hunters in Alberta, Canada. We find that individuals substitute activities spatially and temporally and take more hunting trips and gain welfare benefits when they can more flexibly choose the time of activities. Our findings show that increases in time flexibility can be used as an incentive to encourage beneficial outcomes. 
+abstract: When participating in recreation individuals decide on where to go (locations) and when to participate (which time periods), and they respond to changes in external factors (e.g., environmental quality changes, provision of incentives). In examining economic decision-making, economists focus mostly on location choices, thus the behavioral and welfare impacts of the incentives associated with time choices are largely unknown. In this paper, we develop and estimate a flexible econometric model that combines spatial and temporal choices. The model is applied to examine individuals’ location and time choices of their recreation trips in response to extended recreation seasons that are proposed to encourage hunting for wildlife disease management. The data are from an online revealed and stated preference survey of recreational hunters in Alberta, Canada. We find that individuals substitute activities spatially and temporally, take more hunting trips, and gain welfare benefits when they can more flexibly choose the time of activities. Our findings show that increases in time flexibility can be used as an incentive to encourage beneficial outcomes.
  
  
 
 
 # Summary. An optional shortened abstract.
-summary: Working paper
+summary: Journal article, Journal of Environmental Economics and Management
 
 tags:
 - Source Themes
@@ -32,7 +32,7 @@ featured: false
 
 links:
 #- name: Custom Link
-#url: 
+#url:'https://www.sciencedirect.com/science/article/abs/pii/S009506962200105X' 
 #url_pdf: 'https://github.com/LusiXie/lusi-xie.org/blob/master/static/files/Xie_JMP.pdf'
 #url_code: '#'
 #url_dataset: '#'
