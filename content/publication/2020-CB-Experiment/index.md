@@ -3,7 +3,7 @@ title: "Using Economic Experiments to Assess the Validity of Stated Preference C
 authors:
 - Xie, L, Adamowicz, W, Kecinski, M, Fooks, J
 date: "2022-07-07"
-doi: ""
+doi: "https://doi.org/10.1016/j.jeem.2022.102659"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: ""
@@ -30,7 +30,7 @@ featured: false
 links:
 #- name: Custom Link
 #  url: http://example.org
-url_pdf: https://www.sciencedirect.com/science/article/pii/S0095069622000377
+# url_pdf: https://www.sciencedirect.com/science/article/pii/S0095069622000377
 #url_code: '#'
 #url_dataset: '#'
 #url_poster: '#'
