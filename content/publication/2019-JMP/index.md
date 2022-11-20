@@ -2,8 +2,8 @@
 title: "Spatial and Temporal Responses to Incentives: An Application to Wildlife Disease Management" 
 authors:
 - Xie, L, Adamowicz, W, Lloyd-Smith, P
-date: "2022-01-10"
-doi: ""
+date: "2022-11-10"
+doi: "https://doi.org/10.1016/j.jeem.2022.102752"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: ""
