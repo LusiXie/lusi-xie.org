@@ -19,6 +19,16 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
+  organization = "Saskatoon, Canada"
+  organization_url = ""
+  title = "Canadian Resource and Environmental Economics Association Annual Conference"
+  url = "https://sites.google.com/view/creeaacere/annual-conference/program?authuser=0"
+  certificate_url = ""
+  date_start = "2022-10-01"
+  date_end = ""
+  description = ""
+
+[[item]]
   organization = "Anaheim, USA"
   organization_url = ""
   title = "Agricultural & Applied Economics Association Conference"
