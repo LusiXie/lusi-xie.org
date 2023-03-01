@@ -81,6 +81,6 @@ My topics of specialization include wildlife conservation, water resource manage
 
 Feel free to contact me at [lxie@udel.edu](mailto:lxie@udel.edu)
 
-* {{% staticref "files/Xie_CV_2022.pdf" "newtab" %}} **Academic CV (PDF)** {{% /staticref %}}
+* {{% staticref "files/Xie_CV_2023.pdf" "newtab" %}} **Academic CV (PDF)** {{% /staticref %}}
 
 
