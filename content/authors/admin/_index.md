@@ -73,11 +73,11 @@ user_groups:
 - Visitors
 ---
 
-I am a postdoctoral researcher at the [Center for Experimental and Applied Economics](https://www.udel.edu/academics/colleges/canr/departments/applied-economics-and-statistics/affiliated-centers/ceae/) at the University of Delaware. 
+I am a postdoctoral researcher at the [Center for Experimental and Applied Economics](https://www.udel.edu/academics/colleges/canr/departments/applied-economics-and-statistics/affiliated-centers/ceae/) at the University of Delaware and a postdoctoral fellow with the USDA-funded national [Center for Behavioral and Experimental Agri-Environmental Research (CBEAR)](https://www.centerbear.org/). I will join the Department of Agricultural and Applied Economics at the University of Georgia in fall 2023. 
 
 I am an environmental economist with expertise in environmental valuation and experimental economics. My interdisciplinary research applies economic tools to address environmental issues by providing a better understanding of human behavior and informing policy design. 
 
-My topics of specialization include wildlife conservation, water resource management, and agri-environmental policies. My research makes methodological contributions by developing novel recreation demand models, advancing the design of stated preference surveys, comparing behavioral responses from students and non-students in economic experiments, and connecting laboratory with field experiments to inform program implementation. 
+My topics of specialization include wildlife conservation, water resource management, and agri-environmental policies. My research makes methodological contributions by developing novel recreation demand models, advancing the design of stated preference surveys, comparing behavioral responses from students and stakeholders in economic experiments, and connecting laboratory with field experiments to inform program implementation. 
 
 Feel free to contact me at [lxie@udel.edu](mailto:lxie@udel.edu)
 
