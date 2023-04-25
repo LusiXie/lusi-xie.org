@@ -50,7 +50,7 @@ social:
   link: https://twitter.com/lusixie0129
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.ca/citations?hl=en&authuser=1&user=N5c9UjMAAAAJ
+  link: https://scholar.google.com/citations?user=HQVl02wAAAAJ&hl=en&oi=ao
 - icon: github
   icon_pack: fab
   link: https://github.com/LusiXie
