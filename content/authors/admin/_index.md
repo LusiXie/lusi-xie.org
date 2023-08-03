@@ -10,11 +10,10 @@ authors:
 superuser: true
 
 # Role/position
-role: Postdoctoral researcher
-
+role: Assistant Professor
 # Organizations/Affiliations
 organizations:
-- name: University of Delaware
+- name: University of Georgia
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -61,7 +60,7 @@ social:
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 # - icon: cv
 #   icon_pack: ai
-#   link: files/Xie_CV_2021.pdf
+#   link:
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "lxie@udel.edu"
