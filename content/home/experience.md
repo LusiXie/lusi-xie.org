@@ -18,6 +18,24 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
+  title = "University of Georgia"
+  company = "Department of Agricultural and Applied Economics"
+  company_url = ""
+  location = "Athens"
+  date_start = "2023-08-01"
+  date_end = "2030-08-01"
+  description = """
+  Instructor
+  
+  * Quantitative Techniques in Agricultural Economics (graduate)
+  
+  Co-instructor
+  
+  * Survey Design and Experimental Economics (PhD)
+
+  """
+
+[[experience]]
   title = "University of Delaware"
   company = "Department of Applied Economics and Statistics"
   company_url = ""
