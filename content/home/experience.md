@@ -23,7 +23,7 @@ date_format = "Jan 2006"
   company_url = ""
   location = "Athens"
   date_start = "2023-08-01"
-  date_end = "2030-08-01"
+  date_end = ""
   description = """
   Instructor
   
@@ -41,7 +41,7 @@ date_format = "Jan 2006"
   company_url = ""
   location = "Delaware"
   date_start = "2021-03-01"
-  date_end = "2022-06-01"
+  date_end = "2023-06-01"
   description = """
   Co-instructor
   
