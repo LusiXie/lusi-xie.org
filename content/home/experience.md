@@ -32,6 +32,7 @@ date_format = "Jan 2006"
   Co-instructor
   
   * Survey Design and Experimental Economics (PhD)
+  * Climate Change Economics and Policy (undergraduate)
 
   """
 
