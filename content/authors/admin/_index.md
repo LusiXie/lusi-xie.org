@@ -80,6 +80,8 @@ My topics of specialization include wildlife conservation, water resource manage
 
 Feel free to contact me at [lusi.xie@uga.edu](mailto:lusi.xie@uga.edu)
 
+Publications: [Google Scholar] (https://scholar.google.com/citations?user=HQVl02wAAAAJ&hl=en&oi=ao)
+
 <!-- * {{% staticref "files/Xie_CV.pdf" "newtab" %}} **Academic CV (PDF)** {{% /staticref %}} -->
 
 
