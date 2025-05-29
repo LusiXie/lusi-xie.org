@@ -43,10 +43,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: "mailto:lxie@udel.edu"
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/lusixie0129
+  link: "mailto:lusi.xie@uga.edu"
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=HQVl02wAAAAJ&hl=en&oi=ao
