@@ -81,3 +81,4 @@ Publications: [Google Scholar] (https://scholar.google.com/citations?user=HQVl02
 
 * {{% staticref "files/Xie_CV.pdf" "newtab" %}} **Academic CV (PDF)** {{% /staticref %}}
 
+<!-- * {{% staticref "files/Xie_CV.pdf" "newtab" %}} **Academic CV (PDF)** {{% /staticref %}} -->
